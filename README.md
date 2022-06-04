@@ -1,4 +1,4 @@
-<img src="@profsain.png">
+<img src="header.jpg">
 
 ### Hi there 👋
 
