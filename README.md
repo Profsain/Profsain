@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 💬 Ask me about Software development
 
-- :zap: In my free time, I love to mentor beginner and read tech articles.
+- :zap:  I derive immense pleasure from providing guidance and mentorship to novice web developers.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Profsain-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/profsain)
 
@@ -64,4 +64,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Profsain&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Profsain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Profsain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
